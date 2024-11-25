@@ -1,5 +1,5 @@
-<h3>Full Stack Technologies used in this Node.js app</h3>
-<h3>Start testing this Full Stack app on your machine locally</h3>
+<h3>DevOps Docker practice</h3>
+<h3>Start testing this Docker composed app</h3>
 
 ```bash
 docker-compose up --build;
@@ -9,24 +9,15 @@ docker-compose up --build;
 <ul>
     <li>1. Docker-compose</li>
     <img src="./assets/docker-compose.jpg" alt="docker-compose">
-    <li>2. React JSX Frontend</li>
+    <li>2. React Frontend</li>
     <img src="./assets/react.jpg" alt="react" />
-    <li>3. Sass (CSS-preprocessor) for styling</li>
-    <img src="./assets/Sass.webp" alt="sass" />
     <li>3. Node.js</li>
     <img src="./assets/nodejs.jpg" alt="nodejs" />
     <li>4. Postgres</li>
     <img src="./assets/postgresql.png" alt="clarifai" />
-    <li>5. Clarifai AI APIs</li>
-    <img src="./assets/clarifai-api.jpeg" alt="clarifai" />
-    <li>6. Web Scraping using Puppeteer</li>
-    <img src="./assets/nodejs-puppeteer.jpg" alt="clarifai" />
-    <li>7. Cloud Software as a Service on Render</li>
-    <img src="./assets/Cloud-SaaS.jpeg" alt="clarifai" />
 </ul>
 
-<h3>The dev environment:</h3>
-<h3>Docker-compose is a technology allowing us to bundle our Full Stack app through Containerization on any platform e.g. Windows, Linux, AWS EC2</h3>
+<h3>Docker is a technology allowing us to bundle our Full Stack app through Containerization on any platform e.g. Windows, Linux, AWS EC2</h3>
 <img src="./assets/Docker-compose-2.png" alt="docker-compose-2" />
 <br/>
 
